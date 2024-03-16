@@ -1,3 +1,3 @@
-const sets = (['a', 'b', 'c']);
+const letters = new Set(['a', 'b', 'c']);
 
-console.log(sets);
+console.log(letters);
